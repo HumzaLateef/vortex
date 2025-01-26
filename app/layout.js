@@ -11,9 +11,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className="h-[100svh] bg-red-600 overflow-hidden">
         <div
-          className="h-[100svh] w-full flex flex-col items-center"
+          className="h-full w-full flex flex-col items-center"
           style={{
             background: "linear-gradient(to right, #402fff, #7902df)"
           }}
