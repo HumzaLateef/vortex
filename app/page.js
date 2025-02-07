@@ -8,7 +8,7 @@ export default function Home() {
           ...styles.heading1,
           marginTop: -120, color: "white"
         }}>
-        Welcome to Vlogs
+        Welcome to my App
       </div>
       {/*<div>
         Description here

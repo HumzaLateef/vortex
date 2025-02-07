@@ -27,12 +27,15 @@ export const styles = {
     },
 
     //about animation box
-    aboutPAgeCard:{
-        fontSize: 22, fontWeight: "500", scrollbarWidth: "none"
+    aboutPAgeCard: {
+        fontSize: 22,
+        fontWeight: "500",
+        scrollbarWidth: "none",
+        backgroundColor: "transparent"
     },
 
     //Contact Info
-    emailCard:{
-        
+    emailCard: {
+
     }
 }
